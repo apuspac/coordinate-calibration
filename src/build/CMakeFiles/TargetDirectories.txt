@@ -1,0 +1,3 @@
+/home/cafe/workspace/coordinate-transform/src/build/CMakeFiles/Rotation.dir
+/home/cafe/workspace/coordinate-transform/src/build/CMakeFiles/edit_cache.dir
+/home/cafe/workspace/coordinate-transform/src/build/CMakeFiles/rebuild_cache.dir
